@@ -1,1 +1,1 @@
-# DANIEL
+describing the project and displaying timetable
